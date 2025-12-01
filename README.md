@@ -1,2 +1,2 @@
-# Advent-of-Code-2025
-Solution Code for 2025's Advent of Code
+
+My solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
