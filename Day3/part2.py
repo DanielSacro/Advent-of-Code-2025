@@ -1,4 +1,4 @@
-# Gift Shop
+# Lobby
 
 def getInput():
     file = open("Day3/input.txt", "r")
